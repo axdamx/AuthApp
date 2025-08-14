@@ -22,8 +22,7 @@ A React Native application with authentication functionality using React Context
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd AuthApp
+git clone https://github.com/axdamx/AuthApp.git
 ```
 
 2. Install dependencies:
@@ -84,3 +83,23 @@ src/
 - **Expo Vector Icons**: Provides icons for UI elements
 - **Expo Status Bar**: Controls the status bar appearance
 - **Expo Font**: Manages custom fonts in the app
+
+## App Flow
+
+### SignUp Screen (Happy Flow)
+https://github.com/user-attachments/assets/306d9fad-be05-4cbb-a77d-12d896351bd0
+
+### User Persisted (Happy Flow)
+https://github.com/user-attachments/assets/4da0453b-34b8-48e2-8f6e-6aa4ccbf492a
+
+### Login Screen (Happy Flow)
+https://github.com/user-attachments/assets/d8319f1f-f108-420e-b0e8-2eea1ceeca5e
+
+### Login Screen (Bad Flow)
+https://github.com/user-attachments/assets/dd812319-130a-4405-9fd4-cc09ebbce1bb
+
+### SignUp Screen (Bad Flow)
+https://github.com/user-attachments/assets/988cd93b-5969-45aa-9efe-9cf67269232a
+
+
+
